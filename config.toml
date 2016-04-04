@@ -19,7 +19,7 @@ theme = "hugo-creative-theme"
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
 	name = "Harvard Undergraduate Biotechnology Association"
-	description = "Javascript. Python. Beautiful Design."
+	description =  "Harvard Undergraduate Biotechnology Association. HBio about various aspects of the biotechnology and explore the different intersections of research and industry through interactive participation"
 
 	# The path must be relative to the static folder
 	favicon = "img/favicon.ico"

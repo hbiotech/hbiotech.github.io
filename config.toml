@@ -1,4 +1,4 @@
-baseurl = "http://hbiotech.github.io"
+baseurl = "http://hbiotech.github.io/"
 languageCode = "en-us"
 title = "Harvard Undergraduate Biotechnology Association"
 theme = "hugo-creative-theme"
@@ -22,7 +22,7 @@ theme = "hugo-creative-theme"
 	description = "Javascript. Python. Beautiful Design."
 
 	# The path must be relative to the static folder
-	favicon = "/img/favicon.ico"
+	favicon = "img/favicon.ico"
 
 
 	# Navigation

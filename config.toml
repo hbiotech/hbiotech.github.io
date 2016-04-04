@@ -87,6 +87,8 @@ theme = "hugo-creative-theme"
     # Aside section
 	[params.aside]
 		headline = "Donate Now"
+		[params.aside.button]
+			link = "http://www.scrb.harvard.edu/lab/646/home"
 
 	# About section
 	[params.advisors]

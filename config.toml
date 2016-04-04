@@ -57,23 +57,23 @@ theme = "hugo-creative-theme"
 		headline = "What We Do"
 
     [[params.services.list]]
-      icon = "fa-diamond"
-      title = "Events"
+      icon = "fa-newspaper-o"
+      title = "Current Events"
       description = "Group dinners to discuss topics and news in biotech."
 
     [[params.services.list]]
-			icon = "fa-paper-plane"
-			title = "Passion"
+			icon = "fa-university"
+			title = "Academic Discussions"
 			description = "Dinners with faculty and industry leaders in a small setting that encourages interaction"
 
 		[[params.services.list]]
-      icon = "fa-newspaper-o"
-      title = "Drive"
+      icon = "fa-briefcase"
+      title = "Industry Interactions"
       description = "Off-campus events including company tours. "
 
     [[params.services.list]]
-      icon = "fa-heart"
-      title = "Development Skill"
+      icon = "fa-users"
+      title = "Big Speakers"
       description = "Guest lectures and symposiums with people on the cutting edge of research."
 
 

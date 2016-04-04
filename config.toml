@@ -56,41 +56,38 @@ theme = "hugo-creative-theme"
 	[params.services]
 		headline = "What We Do"
 
-        [[params.services.list]]
-            icon = "fa-diamond"
-            title = "Events"
-            description = "Group dinners to discuss topics and news in biotech."
+    [[params.services.list]]
+      icon = "fa-diamond"
+      title = "Events"
+      description = "Group dinners to discuss topics and news in biotech."
 
-        [[params.services.list]]
+    [[params.services.list]]
 			icon = "fa-paper-plane"
 			title = "Passion"
 			description = "Dinners with faculty and industry leaders in a small setting that encourages interaction"
 
 		[[params.services.list]]
-            icon = "fa-newspaper-o"
-            title = "Drive"
-            description = "Off-campus events including company tours. "
+      icon = "fa-newspaper-o"
+      title = "Drive"
+      description = "Off-campus events including company tours. "
 
-        [[params.services.list]]
-            icon = "fa-heart"
-            title = "Development Skill"
-            description = "Guest lectures and symposiums with people on the cutting edge of research."
+    [[params.services.list]]
+      icon = "fa-heart"
+      title = "Development Skill"
+      description = "Guest lectures and symposiums with people on the cutting edge of research."
 
 
-    # Portfolio modals
 	[params.portfolio.modal]
         client = "Client"
         date = "Date"
         category = "Category"
         buttonText = "Close"
 
-    # Aside section
 	[params.aside]
 		headline = "Donate Now"
-		[params.aside.button]
-			link = "http://www.scrb.harvard.edu/lab/646/home"
+	[params.aside.button]
+		link = "https://www.paypal.me/hbio"
 
-	# About section
 	[params.advisors]
 		headline    = "Advisor - Gregory Verdine"
 		description = "Greg Verdine is the Director of the Chemical Biology Initiative and the Program in Cancer Chemical Biology at the Dana-Farber Cancer Institute, and is a Harvard College Professor. His Dana-Farber research effort aims to discover entirely new molecular classes of drugs to tackle so-called “undruggable” targets. Verdine is a senior advisor to Third Rock Ventures and the Texas Pacific Group, and has founded, co-founded or re-founded six biopharmaceutical companies"

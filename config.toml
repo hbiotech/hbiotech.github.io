@@ -22,6 +22,8 @@ theme = "hugo-creative-theme"
 	description =  "Harvard Undergraduate Biotechnology Association. HBio about various aspects of the biotechnology and explore the different intersections of research and industry through interactive participation"
 
 	# The path must be relative to the static folder
+
+	# add into the metrics of the speakers online and the people that are involved
 	favicon = "img/favicon.ico"
 
 
@@ -90,7 +92,7 @@ theme = "hugo-creative-theme"
 
 	[params.advisors]
 		headline    = "Advisor - Gregory Verdine"
-		description = "Greg Verdine is the Director of the Chemical Biology Initiative and the Program in Cancer Chemical Biology at the Dana-Farber Cancer Institute, and is a Harvard College Professor. His Dana-Farber research effort aims to discover entirely new molecular classes of drugs to tackle so-called “undruggable” targets. Verdine is a senior advisor to Third Rock Ventures and the Texas Pacific Group, and has founded, co-founded or re-founded six biopharmaceutical companies"
+		description = "Dr. Gregory L. Verdine, also known as Greg, Ph.D., is a Co-Founder of Warp Drive Bio, LLC and serves as its Chairman of The Scientific Advisory Board. Dr. Verdine is the founder of Verdyne Partners LLC and serves as its President and Chief Executive Officer. He is a Co-Founder at Eleven Biotherapeutics Inc and Tokai Therapeutics. He is the President and Director at Fog Pharmaceuticals, Inc. He is a thought leader in the field of chemical biology and an accomplished drug discovery entrepreneur."
 		buttonText  = "View More"
 		img = "gregoryverdine.jpg"
 

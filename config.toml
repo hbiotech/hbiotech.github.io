@@ -35,9 +35,7 @@ theme = "hugo-creative-theme"
 			about  = "About"
 			services  = "Services"
 			donate = "Donate"
-			advisors = "Advisors"
-			team = "Team"
-			contact = "Contact"
+			advisors = "Test"
 
 
 	# Hero section

@@ -34,7 +34,7 @@ theme = "hugo-creative-theme"
 		[params.navigation.links]
 			about  = "About"
 			services  = "Services"
-			Apply = "Apply"
+			donate = "Donate"
 			advisors = "Advisors"
 
 
@@ -84,9 +84,9 @@ theme = "hugo-creative-theme"
         buttonText = "Close"
 
 	[params.aside]
-		headline = "Apply Now"
+		headline = "Donate Now"
 	[params.aside.button]
-		link = "https://goo.gl/forms/oxxp6SeluMTyP5W93"
+		link = "https://www.paypal.me/hbio"
 
 	[params.advisors]
 		headline    = "Advisor - Gregory Verdine"

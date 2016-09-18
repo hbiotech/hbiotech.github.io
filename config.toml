@@ -54,7 +54,7 @@ theme = "hugo-creative-theme"
 
 	# Service section
 	[params.services]
-		headline = "What We Do"
+		headline = "What We Say"
 
     [[params.services.list]]
       icon = "fa-newspaper-o"
